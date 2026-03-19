@@ -1,0 +1,155 @@
+{
+  "placeholderImages": [
+    {
+      "id": "who-we-are-1",
+      "description": "A modern office environment with professionals collaborating.",
+      "imageUrl": "https://images.unsplash.com/photo-1707779491435-000c45820db2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmaW5hbmNlJTIwdGVjaG5vbG9neXxlbnwwfHx8fDE3NjkwMTE5NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "finance technology"
+    },
+    {
+      "id": "hero-slide-1",
+      "description": "Team of business people discussing strategy around a table.",
+      "imageUrl": "/hero-slide-1.jpg",
+      "imageHint": "business strategy"
+    },
+    {
+      "id": "hero-slide-2",
+      "description": "Close-up of a financial report with charts and graphs.",
+      "imageUrl": "/hero-slide-2.jpg",
+      "imageHint": "finance audit"
+    },
+    {
+      "id": "hero-slide-3",
+      "description": "Business person presenting a growth chart.",
+      "imageUrl": "/hero-slide-3.jpg",
+      "imageHint": "business transformation"
+    },
+    {
+      "id": "about-page-2",
+      "description": "Business analytics dashboard on a laptop screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "imageHint": "data analytics"
+    },
+    {
+      "id": "team-member-1",
+      "description": "Portrait of a professional team member.",
+      "imageUrl": "/peter-muru.jpg",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "team-member-3",
+      "description": "Portrait of a professional team member.",
+      "imageUrl": "/stephen-mwangi.jpg",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "team-member-4",
+      "description": "Portrait of a professional team member.",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjkwNzg1MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "about-team-commitment",
+      "description": "A diverse team of professionals in a modern office.",
+      "imageUrl": "/about-team-commitment.jpg",
+      "imageHint": "diverse team"
+    },
+       {
+      "id": "about-hero",
+      "description": "Financial documents on a desk, representing consultancy.",
+      "imageUrl": "/about-page.jpg",
+      "imageHint": "financial documents"
+    }, 
+    {
+      "id": "blog-nssf-changes",
+      "description": "Calendar and calculator representing NSSF changes.",
+      "imageUrl": "/nssf-changes.jpg",
+      "imageHint": "finance calendar"
+    },
+    {
+      "id": "blog-health-insurance",
+      "description": "Stethoscope on a pile of money, representing health insurance costs.",
+      "imageUrl": "/health-insurance.jpg",
+      "imageHint": "health insurance"
+    },
+    {
+      "id": "blog-payroll-compliance",
+      "description": "Person working on a laptop with payroll software.",
+      "imageUrl": "/payroll-compliance.jpg",
+      "imageHint": "payroll compliance"
+    },
+    {
+      "id": "blog-retirement-planning",
+      "description": "Older couple enjoying retirement on a beach.",
+      "imageUrl": "/retirement-planning.jpg",
+      "imageHint": "retirement planning"
+    },
+    {
+      "id": "sidebar-payroll-management",
+      "description": "An organized desk with payroll documents and a calculator.",
+      "imageUrl": "/payroll-management.jpg",
+      "imageHint": "payroll services"
+    },
+    {
+      "id": "sidebar-tax-compliance",
+      "description": "Tax forms and a pen, representing tax compliance.",
+      "imageUrl": "/tax-compliance.jpg",
+      "imageHint": "tax compliance"
+    },
+    {
+      "id": "blog-kra-pin",
+      "description": "Supermarket receipt with a focus on tax information.",
+      "imageUrl": "/kra-pin.jpg",
+      "imageHint": "shopping receipt"
+    },
+    {
+      "id": "blog-etims-spending",
+      "description": "Chart showing business spending and financial analytics.",
+      "imageUrl": "/etims-spending.jpg",
+      "imageHint": "business finance"
+    },
+    {
+      "id": "blog-retirement-benefits",
+      "description": "A visual representation of retirement planning, with charts and piggy banks.",
+      "imageUrl": "/retirement-benefits.jpg",
+      "imageHint": "retirement planning"
+    },
+    {
+      "id": "sidebar-etims-ad",
+      "description": "A business professional reviewing documents for eTIMS compliance.",
+      "imageUrl": "/etims-ad.jpg",
+      "imageHint": "business compliance"
+    },
+    {
+      "id": "sidebar-bookkeeping-ad",
+      "description": "A clean desk with ledgers and a calculator, representing bookkeeping.",
+      "imageUrl": "/bookkeeping-ad.jpg",
+      "imageHint": "bookkeeping services"
+    },
+    {
+      "id": "sidebar-krapin-ad",
+      "description": "Close up of a tax form.",
+      "imageUrl": "https://picsum.photos/seed/sidebar-krapin-ad/1080/720.jpg",
+      "imageHint": "tax forms"
+    },
+    {
+        "id": "sidebar-retirement-ad",
+        "description": "A person looking at a chart showing financial growth for retirement.",
+      "imageUrl": "/retirement-ad.jpg",
+      "imageHint": "financial planning"
+    },
+    {
+      "id": "sidebar-pension-ad",
+      "description": "An office meeting discussing pension plans.",
+      "imageUrl": "/pension-ad.jpg",
+      "imageHint": "pension plan"
+    },
+    {
+      "id": "about-page-bg",
+      "description": "A background image for the about page.",
+      "imageUrl": "about-bg.jpg",
+      "imageHint": "about page"
+    }
+
+  ]
+}
