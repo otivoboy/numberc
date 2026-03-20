@@ -28,7 +28,7 @@ const Section = ({ children, className = '' }: { children: React.ReactNode, clas
 );
 
 const infoItems = [
-    { icon: MapPin, title: "Office Location", lines: ["Nairobi, Kenya", "Serving clients across Kenya and beyond"] },
+    { icon: MapPin, title: "Office Location", lines: ["Waiyaki Way, Mountain View", "Nairobi, Kenya"] },
     { icon: Mail, title: "Email Address", lines: ["info@numbercraftconsulting.com", "General inquiries and consultations"] },
     { icon: Phone, title: "Phone Number", lines: ["+254 707 810 650", "Mon-Fri, 8:00 AM - 5:00 PM EAT"] },
     { icon: Briefcase, title: "Careers", lines: ["careers@numbercraftconsulting.com", "Send your CV and cover letter"] }
@@ -262,7 +262,7 @@ ${fullName}`;
                             <CardContent>
                                <div className="aspect-video rounded-lg overflow-hidden">
                                      <iframe 
-                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.813676445823!2d36.821548774821845!3d-1.287841635637882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1123456789ab%3A0x1234567890abcdef!2sNairobi%2C%20Kenya!5e0!3m2!1sen!2ske!4v1641234567890!5m2!1sen!2ske" 
+                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.868377317355!2d36.7553563152635!3d-1.254553235942488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f19d20c33a8a9%3A0x141a1b59a45bde8d!2sMountain%20View%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1678886543210!5m2!1sen!2ske" 
                                         width="100%" 
                                         height="100%" 
                                         style={{ border: 0 }}
@@ -322,3 +322,4 @@ ${fullName}`;
     </div>
   );
 }
+
